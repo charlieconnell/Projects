@@ -11,6 +11,5 @@ This project showcases the data science project workflow applied to a dataset I 
 [Data munging, eda and formation of relational tables](https://github.com/charlieconnell/Projects/blob/master/saccades_munging%26eda.ipynb): Using Python (Numpy, Pandas, Seaborn, SQLite)
 
 ## Datacamp guided projects
-[DR. SEMMELWEIS AND THE DISCOVERY OF HANDWASHING]
-()
+[DR. SEMMELWEIS AND THE DISCOVERY OF HANDWASHING](https://github.com/charlieconnell/Projects/blob/master/DC_handwash-project.ipynb): Using Python for data manipulation (Pandas)
 
