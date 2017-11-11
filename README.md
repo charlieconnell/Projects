@@ -1,5 +1,5 @@
 # Projects
-A collection of research and data science projects in Jupyter Notebooks in Python to showcase the many different skills of a Quantitative Researcher and aspiring Data Scientist.
+A collection of research and data science projects in Jupyter Notebooks in Python to showcase the many different skills of a Researcher and aspiring Data Scientist.
 
 Author: Charlotte Joy Waikauri Connell, PhD
 
@@ -10,5 +10,7 @@ This project showcases the data science project workflow applied to a dataset I 
 
 [Data munging, eda and formation of relational tables](https://github.com/charlieconnell/Projects/blob/master/saccades_munging%26eda.ipynb): Using Python (Numpy, Pandas, Seaborn, SQLite)
 
-
+## Datacamp guided projects
+[DR. SEMMELWEIS AND THE DISCOVERY OF HANDWASHING]
+()
 
