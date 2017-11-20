@@ -1,5 +1,5 @@
 # Projects
-A collection of research and data science projects in Jupyter Notebooks in Python to showcase the many different skills of a Researcher and aspiring Data Scientist.
+A collection of research and data science projects in Jupyter Notebooks in Python.
 
 Author: Charlotte Joy Waikauri Connell, PhD
 
