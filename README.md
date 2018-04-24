@@ -10,8 +10,6 @@ Email: charlotte.connell@gmail.com | LinkedIn: https://www.linkedin.com/in/charl
 
 [Descriptive and statistical analysis](https://github.com/charlieconnell/Projects/blob/master/saccades_analysis_V1.ipynb): Using Python (Numpy, Pandas, Seaborn, SKLearn, Scipy) (Work in progress)
 
-## User experience web analytics
-
 
 ## Datacamp guided projects
 [DR. SEMMELWEIS AND THE DISCOVERY OF HANDWASHING](https://github.com/charlieconnell/Projects/blob/master/DC_handwash-project.ipynb): Using Python for data manipulation (Pandas)
