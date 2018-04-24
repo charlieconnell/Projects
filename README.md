@@ -5,7 +5,7 @@ Author: Charlotte Joy Waikauri Connell, PhD
 
 Email: charlotte.connell@gmail.com | LinkedIn: https://www.linkedin.com/in/charlieconnell/
 
-[## Saccadic eye movements & exercise fatigue (Numpy, Pandas, Seaborn, SKLearn, Scipy)(https://github.com/charlieconnell/Projects/blob/master/saccades_project.ipynb): Using Python (Numpy, Pandas, Seaborn)
+[## Saccadic eye movements & exercise fatigue (Numpy, Pandas, Seaborn, SKLearn, Scipy)](https://github.com/charlieconnell/Projects/blob/master/saccades_project.ipynb): Using Python (Numpy, Pandas, Seaborn)
 
 
 ## Datacamp guided projects
